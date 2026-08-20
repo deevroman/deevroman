@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/ypHwA9k.gif"></img>
 </div>
 
-Most of the repositories are dedicated to OpenStreetMap ❤️ and ITMO University ❤️ educational projects. 
+Most of the repositories are dedicated to OpenStreetMap ❤️ and ITMO University ❤️ educational projects, related to system programming, virtual, language and symbolic machines
 
 C, C++, Go, Python, JavaScript, Java, and even Erlang, Verilog and Coq. 
 
