@@ -5,4 +5,4 @@
 
 Most of the repositories are dedicated to OpenStreetMap ❤️ and ITMO University ❤️ educational projects. 
 
-C, C++, Go, Python, JavaScript, Java, and even Erlang and Coq. Feel free to create an issue or contact me on social networks.
+C, C++, Go, Python, JavaScript, Java, and even Erlang, Verilog and Coq. Feel free to create an issue or contact me on social networks.
